@@ -13,3 +13,5 @@ langchain-huggingface
 numpy
 langchain_ollama
 astrapy
+langchain_experimental
+langchain-google-genai
